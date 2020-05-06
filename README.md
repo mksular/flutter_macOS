@@ -7,7 +7,7 @@ macOS Flutter Kurulumu:
 	/users/mksular/flutter/src
 	klasörüne çıkar
 
-3- Android Stüdyo Kur
+3- Android Studio Kur
 
 	SDK dosyalarını
 	/users/mksular/flutter/sdk
